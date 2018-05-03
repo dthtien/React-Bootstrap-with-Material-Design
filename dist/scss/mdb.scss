@@ -27,11 +27,9 @@
 
 @charset "UTF-8";
 
-// Bootstrap
 @import "core/bootstrap/functions";
 @import "core/bootstrap/variables";
 
-// CORE
 @import "core/mixins";
 @import "core/colors";
 @import "core/variables";
@@ -41,7 +39,6 @@
 @import "core/masks";
 @import "core/waves";
 
-// FREE
 @import "free/animations-basic";
 @import "free/animations-extended";
 @import "free/buttons";
@@ -59,5 +56,4 @@
 @import "free/list-group";
 @import "free/tables";
 
-// Your custom styles
 @import "custom";
